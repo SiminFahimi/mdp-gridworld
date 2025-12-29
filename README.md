@@ -51,10 +51,10 @@ Higher wall density increases convergence time for both methods.
 ## Visualization
 
 ## Policy Iteration
-![Policy Iteration](assets/policy_iteration.jpg)
+![Policy Iteration](assets/policy_iteration.png)
 
 ## Value Iteration
-![Value Iteration](assets/value_iteration.jpg)
+![Value Iteration](assets/value_iteration.png)
 
 ## Comparison
-![Comparison](assets/comparison.jpg)
+![Comparison](assets/comparison.png)

@@ -44,14 +44,17 @@ complexity on algorithm performance.
 
 ## Results
 
-Experiments show that Policy Iteration converges in fewer iterations,
-while Value Iteration scales better for larger grid sizes.
+Experiments show that Policy Iteration converges in larger iterations,
+while Value Iteration scales better for fewer grid sizes.
 Higher wall density increases convergence time for both methods.
 
 ## Visualization
 
-<p float="left">
-  <img src="assets/policy_iteration.jpg" width="200" />
-  <img src="assets/value_iteration.jpg" width="200" /> 
-  <img src="assets/comparison.jpg" width="200" />
-</p>
+## Policy Iteration
+![Policy Iteration](assets/policy_iteration.jpg)
+
+## Value Iteration
+![Value Iteration](assets/value_iteration.jpg)
+
+## Comparison
+![Comparison](assets/comparison.jpg)
